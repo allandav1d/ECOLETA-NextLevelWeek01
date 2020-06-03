@@ -1,11 +1,16 @@
 import express from 'express';
+import cors from 'cors';
+import path from 'path';
+import routes from './routes';
 
 const app = express();
 
-app.get('/users', (request, response) => {
-    console.log('Listagem de usuários');
+app.use(cors(
+    //origin : 'www.domain-aplication.com' //em produção é necessario definir o dominio da aplicação
+));
+app.use(express.json());
+app.use(routes);
 
-    response.json(['Diego', 'Fernando', 'Allan']);
-});
+app.use('/uploads', express.static(path.resolve(__dirname, '..', 'uploads')));
 
 app.listen(3333);

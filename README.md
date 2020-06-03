@@ -3,7 +3,7 @@
 </h1>
 
 <h4 align="center">
-  🚀 ECOLETA - Next Level Week 1
+  :recycle: ECOLETA - Next Level Week 1
 </h4>
 
 <p align="center">
@@ -39,26 +39,31 @@
   <img alt="Banner-Ecoleta" src=".github/ecoleta-banner.jpg" width="100%">
 </p>
 
-## 🚀 Tecnologias
+## :rocket: Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
+- [React](https://reactjs.org)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Node.js](https://nodejs.org/en/)
-- [React](https://reactjs.org)
+- [Knex](http://knexjs.org/)
+- [SQLite](https://www.sqlite.org/index.html)
 - [React Native](https://facebook.github.io/react-native/)
 - [Expo](https://expo.io/)
 
-## 💻 Projeto
+## :computer: Projeto
 
-O Ecoleta é um projeto que conectar centros de coleta de resíduos e pessoas.
+O Ecoleta é um projeto que conectar pontos de coleta de resíduos com pessoas.
+
+    :factory: ./server - API REST usando TypeScript, Express e banco de dados SQLite 
+    :spider_web:  ./web - Interface web em RectJS e TypeScript
+    :iphone: ./mobile - Interface mobile em ReactNative, TypeScript e Expo
 
 Aplicação web construída na trilha <strong>Booster</strong> da <strong>Next Level Week 1</strong> distribuída pela [Rocketseat](https://rocketseat.com.br/).
 
-## 🔖 Layout
+## :bookmark: Layout
 
-## 🤔 Como contribuir
+## :thinking: Como contribuir
 
 ## :memo: Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
