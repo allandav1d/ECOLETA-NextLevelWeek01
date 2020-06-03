@@ -55,10 +55,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Ecoleta é um projeto que conectar pontos de coleta de resíduos com pessoas.
 
-    :factory: ./server - API REST usando TypeScript, Express e banco de dados SQLite 
-    :spider_web:  ./web - Interface web em RectJS e TypeScript
-    :iphone: ./mobile - Interface mobile em ReactNative, TypeScript e Expo
+   ><p style="margin-left:5em">:factory: &nbsp;&nbsp;&nbsp;&nbsp;./server - API REST usando TypeScript, Express e banco de dados SQLite </p>
+   ><p style="margin-left:5em">:spider_web:  &nbsp;&nbsp;&nbsp;&nbsp;./web - Interface web em RectJS e TypeScript </p>
+   ><p style="margin-left:5em">:iphone: &nbsp;&nbsp;&nbsp;&nbsp;./mobile - Interface mobile em ReactNative, TypeScript e Expo </p>
 
+<br><br>
 Aplicação web construída na trilha <strong>Booster</strong> da <strong>Next Level Week 1</strong> distribuída pela [Rocketseat](https://rocketseat.com.br/).
 
 ## :bookmark: Layout
