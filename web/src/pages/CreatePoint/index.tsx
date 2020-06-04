@@ -98,7 +98,7 @@ const CreatePoint = () => {
         };
 
 
-        //await api.post('points', data);
+        await api.post('points', data);
         setSucessSubmit(true);
 
         sleep(4000).then(() => { 
