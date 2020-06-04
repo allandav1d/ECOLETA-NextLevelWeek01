@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="ECOLETA" title="#ECOLETA - NEXT LEVEL WEEK" src=".github/logo.png" width="250px" />
+    <img alt="ECOLETA" title="#ECOLETA - NEXT LEVEL WEEK" src="../.github/logo.png" width="250px" />
 </h1>
 
 <h4 align="center">
@@ -10,13 +10,9 @@
  <a href="https://allandavid.com.br">
     <img alt="Made by AllanDav1d" src="https://img.shields.io/badge/made%20by-AllanDav1d-%237159C1">
   </a>
- 
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/allandav1d/ECOLETA-NextLevelWeek01/web">
-
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/allandav1d/ECOLETA-NextLevelWeek01/web">
-  
+    
   <a href="https://github.com/allandav1d/ECOLETA-NextLevelWeek01/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/allandav1d/ECOLETA-NextLevelWeek01/web">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/allandav1d/ECOLETA-NextLevelWeek01">
   </a>
 
   <a href="https://github.com/allandav1d/ECOLETA-NextLevelWeek01/issues">
@@ -25,10 +21,10 @@
 </p>
 
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#computer-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#bookmark-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#thinking-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
@@ -53,7 +49,7 @@ Aplicação web construída na trilha <strong>Booster</strong> da <strong>Next L
 ## :bookmark: Layout
 
 <p align="center">
-  <img alt="Banner-Ecoleta" src=".github/ecoleta-banner-web.svg" width="100%">
+  <img alt="Banner-Ecoleta" src="../.github/ecoleta-banner-web.svg" width="100%">
 </p>
 
 ## :thinking: Como contribuir
